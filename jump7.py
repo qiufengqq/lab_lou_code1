@@ -18,6 +18,6 @@ while n <= 100:
  #       print('jump 7x')
         continue
     else:
-    #print the intiger
+    #-----print the intiger
         print(n)
         n=n+1
